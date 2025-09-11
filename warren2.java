@@ -1,3 +1,19 @@
 public class warren2 {
-    
+    public static void main(String[] args) {
+        int sum = 0;
+        int j = 1;
+        int x = 0;
+        for(int i=2; (i+j) <= 4000000; i += x) {
+            
+            if( (i+j) %2 == 0) {
+                sum += i+j;
+            }
+            x = j;
+            j = i;
+
+        }
+
+        System.out.println(sum);
+    }
+
 }
