@@ -1,3 +1,4 @@
+// 25164150
 public class warren6 {
     //Sum Square Difference
     // The sum of the squares of the first ten natural numbers is,

@@ -1,3 +1,4 @@
+// 837799
 public class warren14 {
     // Longest Collatz Sequence
     // The following iterative sequence is defined for the set of positive integers:
@@ -33,7 +34,6 @@ public class warren14 {
                 mostSteps = step;
             }
         }
-        System.out.println("ans: " + ans);
-        System.out.println("steps: " + mostSteps);
+        System.out.println(ans);
     }
 }

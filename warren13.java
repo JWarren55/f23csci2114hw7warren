@@ -1,3 +1,4 @@
+// 5537376230
 public class warren13 {
     // Large Sum
     // Work out the first ten digits of the sum of the 
@@ -118,7 +119,6 @@ public class warren13 {
         }
         sum *= 10;
         sum += extra;
-        System.err.println(extra);
         System.out.println(sum);
     }
 }

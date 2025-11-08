@@ -1,3 +1,4 @@
+// 23514624000
 public class warren8 {
     // Largest Product in a Series
     // The four adjacent digits in the 1000-digit number that have the greatest product are
